@@ -1,5 +1,5 @@
 # online-gradebook
-Project written in a two-person team
+Project written in a two-person team. The language used to communicate with the user is Polish.
 
   The solution simulates the operations of an online gradebook. It features two projects: Client and Server. The processes communicate with each other through a named pipe. The process Client is the user interface. Instructions entered by the user are sent to the Server process. This one, executes them through operations on the database and returns the result of these actions. The client passes them on to the user.
   
