@@ -1,0 +1,1602 @@
+[
+    {
+        "schoolClass": "C1",
+        "subject": "SB1",
+        "teacher": "T68"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB2",
+        "teacher": "T61"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB3",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB4",
+        "teacher": "T37"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB5",
+        "teacher": "T55"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB6",
+        "teacher": "T39"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB7",
+        "teacher": "T1"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB8",
+        "teacher": "T26"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB9",
+        "teacher": "T14"
+    },
+    {
+        "schoolClass": "C1",
+        "subject": "SB10",
+        "teacher": "T58"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB1",
+        "teacher": "T76"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB2",
+        "teacher": "T49"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB3",
+        "teacher": "T69"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB4",
+        "teacher": "T37"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB5",
+        "teacher": "T36"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB6",
+        "teacher": "T61"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB7",
+        "teacher": "T38"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB8",
+        "teacher": "T5"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB9",
+        "teacher": "T63"
+    },
+    {
+        "schoolClass": "C2",
+        "subject": "SB10",
+        "teacher": "T65"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB1",
+        "teacher": "T7"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB2",
+        "teacher": "T85"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB3",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB4",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB5",
+        "teacher": "T34"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB6",
+        "teacher": "T82"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB7",
+        "teacher": "T74"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB8",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB9",
+        "teacher": "T1"
+    },
+    {
+        "schoolClass": "C3",
+        "subject": "SB10",
+        "teacher": "T69"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB1",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB2",
+        "teacher": "T2"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB3",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB4",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB5",
+        "teacher": "T70"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB6",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB7",
+        "teacher": "T11"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB8",
+        "teacher": "T40"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB9",
+        "teacher": "T85"
+    },
+    {
+        "schoolClass": "C4",
+        "subject": "SB10",
+        "teacher": "T56"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB1",
+        "teacher": "T58"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB2",
+        "teacher": "T30"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB3",
+        "teacher": "T40"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB4",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB5",
+        "teacher": "T16"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB6",
+        "teacher": "T64"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB7",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB8",
+        "teacher": "T29"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB9",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C5",
+        "subject": "SB10",
+        "teacher": "T44"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB1",
+        "teacher": "T7"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB2",
+        "teacher": "T17"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB3",
+        "teacher": "T8"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB4",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB5",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB6",
+        "teacher": "T79"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB7",
+        "teacher": "T75"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB8",
+        "teacher": "T73"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB9",
+        "teacher": "T13"
+    },
+    {
+        "schoolClass": "C6",
+        "subject": "SB10",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB1",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB2",
+        "teacher": "T80"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB3",
+        "teacher": "T81"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB4",
+        "teacher": "T56"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB5",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB6",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB7",
+        "teacher": "T12"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB8",
+        "teacher": "T11"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB9",
+        "teacher": "T71"
+    },
+    {
+        "schoolClass": "C7",
+        "subject": "SB10",
+        "teacher": "T65"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB1",
+        "teacher": "T65"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB2",
+        "teacher": "T7"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB3",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB4",
+        "teacher": "T18"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB5",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB6",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB7",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB8",
+        "teacher": "T80"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB9",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C8",
+        "subject": "SB10",
+        "teacher": "T76"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB1",
+        "teacher": "T16"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB2",
+        "teacher": "T42"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB3",
+        "teacher": "T70"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB4",
+        "teacher": "T67"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB5",
+        "teacher": "T62"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB6",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB7",
+        "teacher": "T79"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB8",
+        "teacher": "T7"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB9",
+        "teacher": "T44"
+    },
+    {
+        "schoolClass": "C9",
+        "subject": "SB10",
+        "teacher": "T22"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB1",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB2",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB3",
+        "teacher": "T34"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB4",
+        "teacher": "T54"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB5",
+        "teacher": "T22"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB6",
+        "teacher": "T35"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB7",
+        "teacher": "T6"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB8",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB9",
+        "teacher": "T86"
+    },
+    {
+        "schoolClass": "C10",
+        "subject": "SB10",
+        "teacher": "T76"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB1",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB2",
+        "teacher": "T8"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB3",
+        "teacher": "T2"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB4",
+        "teacher": "T35"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB5",
+        "teacher": "T60"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB6",
+        "teacher": "T48"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB7",
+        "teacher": "T82"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB8",
+        "teacher": "T27"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB9",
+        "teacher": "T51"
+    },
+    {
+        "schoolClass": "C11",
+        "subject": "SB10",
+        "teacher": "T61"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB1",
+        "teacher": "T46"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB2",
+        "teacher": "T58"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB3",
+        "teacher": "T5"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB4",
+        "teacher": "T70"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB5",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB6",
+        "teacher": "T16"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB7",
+        "teacher": "T59"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB8",
+        "teacher": "T3"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB9",
+        "teacher": "T40"
+    },
+    {
+        "schoolClass": "C12",
+        "subject": "SB10",
+        "teacher": "T20"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB1",
+        "teacher": "T48"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB2",
+        "teacher": "T65"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB3",
+        "teacher": "T79"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB4",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB5",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB6",
+        "teacher": "T53"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB7",
+        "teacher": "T59"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB8",
+        "teacher": "T61"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB9",
+        "teacher": "T3"
+    },
+    {
+        "schoolClass": "C13",
+        "subject": "SB10",
+        "teacher": "T52"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB1",
+        "teacher": "T73"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB2",
+        "teacher": "T73"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB3",
+        "teacher": "T44"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB4",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB5",
+        "teacher": "T2"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB6",
+        "teacher": "T54"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB7",
+        "teacher": "T29"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB8",
+        "teacher": "T9"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB9",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C14",
+        "subject": "SB10",
+        "teacher": "T68"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB1",
+        "teacher": "T51"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB2",
+        "teacher": "T13"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB3",
+        "teacher": "T3"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB4",
+        "teacher": "T5"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB5",
+        "teacher": "T12"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB6",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB7",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB8",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB9",
+        "teacher": "T78"
+    },
+    {
+        "schoolClass": "C15",
+        "subject": "SB10",
+        "teacher": "T35"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB1",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB2",
+        "teacher": "T63"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB3",
+        "teacher": "T39"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB4",
+        "teacher": "T39"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB5",
+        "teacher": "T79"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB6",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB7",
+        "teacher": "T7"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB8",
+        "teacher": "T27"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB9",
+        "teacher": "T44"
+    },
+    {
+        "schoolClass": "C16",
+        "subject": "SB10",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB1",
+        "teacher": "T55"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB2",
+        "teacher": "T42"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB3",
+        "teacher": "T60"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB4",
+        "teacher": "T48"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB5",
+        "teacher": "T65"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB6",
+        "teacher": "T59"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB7",
+        "teacher": "T14"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB8",
+        "teacher": "T31"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB9",
+        "teacher": "T61"
+    },
+    {
+        "schoolClass": "C17",
+        "subject": "SB10",
+        "teacher": "T88"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB1",
+        "teacher": "T72"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB2",
+        "teacher": "T38"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB3",
+        "teacher": "T5"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB4",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB5",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB6",
+        "teacher": "T86"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB7",
+        "teacher": "T16"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB8",
+        "teacher": "T18"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB9",
+        "teacher": "T82"
+    },
+    {
+        "schoolClass": "C18",
+        "subject": "SB10",
+        "teacher": "T85"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB1",
+        "teacher": "T70"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB2",
+        "teacher": "T18"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB3",
+        "teacher": "T85"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB4",
+        "teacher": "T71"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB5",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB6",
+        "teacher": "T17"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB7",
+        "teacher": "T90"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB8",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB9",
+        "teacher": "T43"
+    },
+    {
+        "schoolClass": "C19",
+        "subject": "SB10",
+        "teacher": "T8"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB1",
+        "teacher": "T13"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB2",
+        "teacher": "T59"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB3",
+        "teacher": "T55"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB4",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB5",
+        "teacher": "T82"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB6",
+        "teacher": "T75"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB7",
+        "teacher": "T27"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB8",
+        "teacher": "T14"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB9",
+        "teacher": "T37"
+    },
+    {
+        "schoolClass": "C20",
+        "subject": "SB10",
+        "teacher": "T6"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB1",
+        "teacher": "T51"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB2",
+        "teacher": "T39"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB3",
+        "teacher": "T11"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB4",
+        "teacher": "T81"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB5",
+        "teacher": "T55"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB6",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB7",
+        "teacher": "T3"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB8",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB9",
+        "teacher": "T39"
+    },
+    {
+        "schoolClass": "C21",
+        "subject": "SB10",
+        "teacher": "T15"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB1",
+        "teacher": "T2"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB2",
+        "teacher": "T58"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB3",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB4",
+        "teacher": "T34"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB5",
+        "teacher": "T81"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB6",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB7",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB8",
+        "teacher": "T42"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB9",
+        "teacher": "T32"
+    },
+    {
+        "schoolClass": "C22",
+        "subject": "SB10",
+        "teacher": "T88"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB1",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB2",
+        "teacher": "T23"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB3",
+        "teacher": "T25"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB4",
+        "teacher": "T6"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB5",
+        "teacher": "T46"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB6",
+        "teacher": "T61"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB7",
+        "teacher": "T4"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB8",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB9",
+        "teacher": "T39"
+    },
+    {
+        "schoolClass": "C23",
+        "subject": "SB10",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB1",
+        "teacher": "T89"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB2",
+        "teacher": "T52"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB3",
+        "teacher": "T90"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB4",
+        "teacher": "T36"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB5",
+        "teacher": "T40"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB6",
+        "teacher": "T52"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB7",
+        "teacher": "T88"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB8",
+        "teacher": "T44"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB9",
+        "teacher": "T40"
+    },
+    {
+        "schoolClass": "C24",
+        "subject": "SB10",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB1",
+        "teacher": "T56"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB2",
+        "teacher": "T58"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB3",
+        "teacher": "T32"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB4",
+        "teacher": "T42"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB5",
+        "teacher": "T40"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB6",
+        "teacher": "T86"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB7",
+        "teacher": "T76"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB8",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB9",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C25",
+        "subject": "SB10",
+        "teacher": "T12"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB1",
+        "teacher": "T53"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB2",
+        "teacher": "T24"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB3",
+        "teacher": "T29"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB4",
+        "teacher": "T83"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB5",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB6",
+        "teacher": "T74"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB7",
+        "teacher": "T49"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB8",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB9",
+        "teacher": "T31"
+    },
+    {
+        "schoolClass": "C26",
+        "subject": "SB10",
+        "teacher": "T60"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB1",
+        "teacher": "T10"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB2",
+        "teacher": "T29"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB3",
+        "teacher": "T36"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB4",
+        "teacher": "T81"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB5",
+        "teacher": "T68"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB6",
+        "teacher": "T43"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB7",
+        "teacher": "T63"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB8",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB9",
+        "teacher": "T75"
+    },
+    {
+        "schoolClass": "C27",
+        "subject": "SB10",
+        "teacher": "T45"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB1",
+        "teacher": "T35"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB2",
+        "teacher": "T4"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB3",
+        "teacher": "T19"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB4",
+        "teacher": "T49"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB5",
+        "teacher": "T60"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB6",
+        "teacher": "T88"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB7",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB8",
+        "teacher": "T56"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB9",
+        "teacher": "T69"
+    },
+    {
+        "schoolClass": "C28",
+        "subject": "SB10",
+        "teacher": "T19"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB1",
+        "teacher": "T60"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB2",
+        "teacher": "T28"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB3",
+        "teacher": "T32"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB4",
+        "teacher": "T9"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB5",
+        "teacher": "T6"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB6",
+        "teacher": "T73"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB7",
+        "teacher": "T4"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB8",
+        "teacher": "T63"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB9",
+        "teacher": "T74"
+    },
+    {
+        "schoolClass": "C29",
+        "subject": "SB10",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB1",
+        "teacher": "T62"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB2",
+        "teacher": "T19"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB3",
+        "teacher": "T69"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB4",
+        "teacher": "T55"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB5",
+        "teacher": "T50"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB6",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB7",
+        "teacher": "T31"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB8",
+        "teacher": "T9"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB9",
+        "teacher": "T4"
+    },
+    {
+        "schoolClass": "C30",
+        "subject": "SB10",
+        "teacher": "T76"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB1",
+        "teacher": "T1"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB2",
+        "teacher": "T64"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB3",
+        "teacher": "T41"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB4",
+        "teacher": "T57"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB5",
+        "teacher": "T70"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB6",
+        "teacher": "T17"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB7",
+        "teacher": "T54"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB8",
+        "teacher": "T38"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB9",
+        "teacher": "T90"
+    },
+    {
+        "schoolClass": "C31",
+        "subject": "SB10",
+        "teacher": "T84"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB1",
+        "teacher": "T44"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB2",
+        "teacher": "T6"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB3",
+        "teacher": "T31"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB4",
+        "teacher": "T33"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB5",
+        "teacher": "T76"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB6",
+        "teacher": "T48"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB7",
+        "teacher": "T72"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB8",
+        "teacher": "T75"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB9",
+        "teacher": "T1"
+    },
+    {
+        "schoolClass": "C32",
+        "subject": "SB10",
+        "teacher": "T58"
+    }
+]

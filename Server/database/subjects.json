@@ -1,0 +1,42 @@
+[
+    {
+        "ID": "SB1",
+        "name": "Polish"
+    },
+    {
+        "ID": "SB2",
+        "name": "Mathematics"
+    },
+    {
+        "ID": "SB3",
+        "name": "History"
+    },
+    {
+        "ID": "SB4",
+        "name": "English"
+    },
+    {
+        "ID": "SB5",
+        "name": "PE"
+    },
+    {
+        "ID": "SB6",
+        "name": "Computer science"
+    },
+    {
+        "ID": "SB7",
+        "name": "Physics"
+    },
+    {
+        "ID": "SB8",
+        "name": "Chemistry"
+    },
+    {
+        "ID": "SB9",
+        "name": "Geography"
+    },
+    {
+        "ID": "SB10",
+        "name": "Biology"
+    }
+]
